@@ -1,4 +1,16 @@
 
+## Pytorch YoloV4
+- https://github.com/WongKinYiu/PyTorch_YOLOv4
+
+## mish_cuda 
+- https://github.com/thomasbrandon/mish-cuda // 다운로드후 setup.py 실행
+- https://github.com/WongKinYiu/PyTorch_YOLOv4/issues/78 // 관련 설치 링크
+
+## Train
+- python train.py --batch-size 16 --img 416 416 --data kamp12.yaml --cfg cfg/yolov4.cfg --weights weights/yolov4.weights --name yolov4-kamp12
+
+## Test
+- python test.py --img 416 --conf 0.001 --batch 8 --data kamp12.yaml --cfg cfg/yolov4.cfg --weights runs/exp6_yolov4-kamp12/weights/best_yolov4-kamp12.pt --names yolov4-kamp12-test
 
 ```
 ┌YOLO V4 구조
