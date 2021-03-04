@@ -1,0 +1,5 @@
+names:
+- pistol
+nc: 1
+train: data/gun_data/train.txt
+val: data/gun_data/val.txt

@@ -1,0 +1,6 @@
+names:
+- mask
+- no-mask
+nc: 2
+train: data/mask_data/train.txt
+val: data/mask_data/val.txt

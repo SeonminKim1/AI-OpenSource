@@ -1,0 +1,5 @@
+names:
+- blueworms
+nc: 1
+train: data/tomato_1/train.txt
+val: data/tomato_1/val.txt
