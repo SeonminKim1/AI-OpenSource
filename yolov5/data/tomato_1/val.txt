@@ -1,0 +1,10 @@
+data/tomato_1/images\0002425_SAM_1433.png
+data/tomato_1/images\0005363_SAM_0749.png
+data/tomato_1/images\0007972_10041745.png
+data/tomato_1/images\0017151_SAM_2535.png
+data/tomato_1/images\0014543_SAM_5208.png
+data/tomato_1/images\0007977_10041752.png
+data/tomato_1/images\0002400_SAM_1394.png
+data/tomato_1/images\0007969_10041742.png
+data/tomato_1/images\0002417_SAM_1414.png
+data/tomato_1/images\0016905_20181024_144816.png
